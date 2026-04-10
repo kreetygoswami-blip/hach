@@ -1,0 +1,15 @@
+requests>=2.31.0
+urllib3>=2.0.0
+pandas>=2.2.0
+streamlit>=1.35.0
+pillow>=10.0.0
+
+# QR / barcode: OpenCV + pyzbar (pyzbar needs system libzbar — brew install zbar / apt install libzbar0)
+opencv-contrib-python>=4.8.0
+pyzbar>=0.1.9
+numpy>=1.24.0
+
+# Kivy desktop/mobile UI (optional – only needed for agriculture.py)
+kivy>=2.3.0
+# Android gallery picker for agriculture.py Camera screen (optional)
+# plyer>=2.1.0

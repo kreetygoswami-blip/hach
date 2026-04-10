@@ -1,0 +1,69 @@
+{
+  "history": [
+    {
+      "barcode": "0716270001660",
+      "name": "Ginger Crystallized In Dark Chocolate",
+      "brand": "Chocolove",
+      "image_url": "https://images.openfoodfacts.org/images/products/071/627/000/1660/front_en.41.400.jpg",
+      "calories": 500.0,
+      "scanned_at": "2026-04-11 01:20"
+    },
+    {
+      "barcode": "0014100075233",
+      "name": "Goldfish Baked Snack Crackers Cheddar",
+      "brand": "Pepperidge Farm",
+      "image_url": "https://images.openfoodfacts.org/images/products/001/410/007/5233/front_en.97.400.jpg",
+      "calories": 464.3,
+      "scanned_at": "2026-04-10 23:59"
+    },
+    {
+      "barcode": "3017620422003",
+      "name": "Nutella",
+      "brand": "Nutella",
+      "image_url": "https://images.openfoodfacts.org/images/products/301/762/042/2003/front_en.820.400.jpg",
+      "calories": 539.0,
+      "scanned_at": "2026-04-10 23:57"
+    },
+    {
+      "barcode": "0015000047757",
+      "name": "Yogurt blends snack",
+      "brand": "Gerber",
+      "image_url": "https://images.openfoodfacts.org/images/products/001/500/004/7757/front_en.16.400.jpg",
+      "calories": 235.0,
+      "scanned_at": "2026-04-10 21:41"
+    },
+    {
+      "barcode": "5060189113668",
+      "name": "Unknown",
+      "brand": "",
+      "image_url": "",
+      "calories": 0.0,
+      "scanned_at": "2026-04-10 21:40"
+    },
+    {
+      "barcode": "9300633929169",
+      "name": "Chunk Light Tuna",
+      "brand": "Woolworths",
+      "image_url": "https://images.openfoodfacts.org/images/products/930/063/392/9169/front_en.27.400.jpg",
+      "calories": 0.0,
+      "scanned_at": "2026-04-10 21:20"
+    },
+    {
+      "barcode": "0811594100102",
+      "name": "0811594100102",
+      "brand": "",
+      "image_url": "https://images.openfoodfacts.org/images/products/081/159/410/0102/front_en.16.400.jpg",
+      "calories": 0.0,
+      "scanned_at": "2026-04-10 21:18"
+    },
+    {
+      "barcode": "0007577931114",
+      "name": "Unknown",
+      "brand": "",
+      "image_url": "https://images.openfoodfacts.org/images/products/000/757/793/1114/front_en.8.400.jpg",
+      "calories": 0.0,
+      "scanned_at": "2026-04-10 21:16"
+    }
+  ],
+  "favourites": []
+}
